@@ -3,10 +3,12 @@
 ## Progress Log
 
 ### 📅 March 18, 2025
-✅ **Tasks Completed:**
+✅ **Tasks Completed by Anastasiya Kotelnikova:**
 - Created the GitHub repository and set up version control.
 - Established the project folder structure (data/, models/, notebooks/, src/, results/).
 - Configured Git identity and successfully pushed the initial project structure to GitHub.
+- Drafted initial README.md and project_report.md for documentation.
+- 
 
 🔜 **Next Steps:**
 - Research and finalize the dataset (SHD, N-MNIST, or MNIST).
